@@ -152,8 +152,7 @@ The application contains **two main tabs**:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
-cd heart-disease-prediction
+https://github.com/Sanjaykanth29803/heart
 ```
 
 ### Install Required Libraries
