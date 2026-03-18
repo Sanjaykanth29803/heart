@@ -152,7 +152,7 @@ The application contains **two main tabs**:
 ### Clone the Repository
 
 ```bash
-https://github.com/Sanjaykanth29803/heart
+https://github.com/Sanjaykanth29803/heart.git
 ```
 
 ### Install Required Libraries
