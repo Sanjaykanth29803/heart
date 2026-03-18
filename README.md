@@ -1,7 +1,3 @@
-Here is a **professional README.md content** you can use for your **Heart Disease Prediction Streamlit Project**. It is written in a **GitHub-friendly format**, includes emojis, and explains the project clearly. ❤️
-
----
-
 # ❤️ Heart Disease Prediction & Data Visualization App
 
 ##  Project Overview
@@ -197,7 +193,3 @@ Government College of Engineering, Erode (IRTT)
 
 Data Analytics Enthusiast
 Interested in Data Science, Machine Learning, and AI-driven solutions.
-
----
-
-If you want, I can also give you a **🔥 GitHub-optimized README (with badges, screenshots, and deployment link)** so your project looks **very professional and recruiter-ready**.
